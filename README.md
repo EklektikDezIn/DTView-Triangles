@@ -1,2 +1,1 @@
-"#DTView-Triangles" 
-"# -NextGen" 
+"#DTView-Triangles"
